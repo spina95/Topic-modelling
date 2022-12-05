@@ -1,4 +1,4 @@
-# Topic modelling in shorts documents
+# Topic modelling in short documents
 The aim of this project is to find the best approach to classify short documents and find the topics for each found category.
 The database to test the algorithms is composed of 20k press releases extracted with a web scraper from the web site of the UK government.
 
