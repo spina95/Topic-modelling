@@ -11,3 +11,6 @@ After testing various approaches and compared their results using different metr
 
 ## Examples of topics
 ![image](https://user-images.githubusercontent.com/50515354/205508170-bcc65fc3-80f5-44c2-96a9-6ba7b16bdd7b.png)
+
+## Thesis
+[Thesis.pdf](https://github.com/spina95/Topic-modelling/files/10157076/Thesis.pdf)
