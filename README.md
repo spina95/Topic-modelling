@@ -1,4 +1,9 @@
 # Topic modelling in short documents
+
+## Thesis
+[Thesis.pdf](https://github.com/spina95/Topic-modelling/files/10157076/Thesis.pdf)
+
+## Description
 The aim of this project is to find the best approach to classify short documents and find the topics for each found category.
 The database to test the algorithms is composed of 20k press releases extracted with a web scraper from the web site of the UK government.
 
@@ -11,6 +16,3 @@ After testing various approaches and compared their results using different metr
 
 ## Examples of topics
 ![image](https://user-images.githubusercontent.com/50515354/205508170-bcc65fc3-80f5-44c2-96a9-6ba7b16bdd7b.png)
-
-## Thesis
-[Thesis.pdf](https://github.com/spina95/Topic-modelling/files/10157076/Thesis.pdf)
